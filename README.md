@@ -1,11 +1,11 @@
 <h2>Knowledge</h2>
-<p align="left">
+<a href="https://github.com/dav-med">
  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" width="64" height="64"/>
  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="64" height="64"/>
  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="64" height="64"/>
  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="64" height="64"/>
  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="64" height="64"/>
-</p>
+</a>
 
 <h2>Stats</h2>
 <a href="https://github.com/dav-med">
