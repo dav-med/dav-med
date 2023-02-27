@@ -6,8 +6,3 @@
  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="64" height="64"/>
  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="64" height="64"/>
 </div>
-
-<h2>Stats</h2>
-<a href="https://github.com/dav-med">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dav-med&theme=swift&show_icons=true" />
-</a>
