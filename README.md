@@ -1,4 +1,3 @@
-<h2>Knowledge</h2>
 <div style="display: inline">
  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" width="64" height="64"/>
  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="64" height="64"/>
